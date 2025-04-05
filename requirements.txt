@@ -1,7 +1,12 @@
+streamlit
 transformers
 torch
-langchain
-openai
-python-dotenv
-requests
-streamlit
+gTTS
+opencv-python
+numpy
+matplotlib
+pandas
+wordcloud
+Pillow
+plotly
+googletrans==4.0.0-rc1
