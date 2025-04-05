@@ -2,7 +2,7 @@ streamlit
 transformers
 torch
 gTTS
-opencv-python
+opencv-python-headless
 numpy
 matplotlib
 pandas
